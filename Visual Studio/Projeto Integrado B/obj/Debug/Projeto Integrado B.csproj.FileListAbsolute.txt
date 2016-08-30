@@ -1,0 +1,14 @@
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\bin\Debug\Projeto Integrado B.exe.config
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\bin\Debug\Projeto Integrado B.exe
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\bin\Debug\Projeto Integrado B.pdb
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto_Integrado_B.TelaLogin.resources
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto_Integrado_B.Properties.Resources.resources
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto Integrado B.csproj.GenerateResource.Cache
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto Integrado B.exe
+C:\Users\TEMP.LAB-INF.031\Desktop\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto Integrado B.pdb
+E:\Projeto Integrado B\Projeto Integrado B\bin\Debug\Projeto Integrado B.exe.config
+E:\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto Integrado B.exe
+E:\Projeto Integrado B\Projeto Integrado B\obj\Debug\Projeto Integrado B.pdb
+F:\Visual Studio\Projeto Integrado B\bin\Debug\Projeto Integrado B.exe.config
+F:\Visual Studio\Projeto Integrado B\obj\Debug\Projeto Integrado B.exe
+F:\Visual Studio\Projeto Integrado B\obj\Debug\Projeto Integrado B.pdb
